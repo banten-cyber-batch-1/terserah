@@ -1,0 +1,35 @@
+.kepala {
+	font-size: 40px;
+	font-family: Gisha;
+	margin: 10px;
+}
+
+table {
+	border-collapse: collapse;
+	text-align: center;
+	margin: auto;
+}
+
+table,tr,td{
+	border: 1px solid black;
+}
+
+table,th,td{
+	padding: 3px 20px;
+}
+
+.judul {
+	font-weight: bold;
+}
+
+.hijau {
+	color: green;
+}
+
+.merah {
+	color: red;
+}
+
+.nama {
+	font-weight: bold;
+}
